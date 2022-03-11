@@ -1,0 +1,3 @@
+C:\Users\ASUS\source\repos\TPMOD3\tpmod3.2\obj\Debug\tpmod3.2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TPMOD3\tpmod3.2\obj\Debug\tpmod3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\TPMOD3\tpmod3.2\obj\Debug\tpmod3.2.csproj.CoreCompileInputs.cache
